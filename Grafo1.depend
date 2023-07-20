@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1653323722 source:c:\users\nico_\desktop\grafo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1653328069 source:c:\users\nico_\desktop\grafo1\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"grafo.h"
+	"cola.h"
+
+1653323701 c:\users\nico_\desktop\grafo1\grafo.h
+
+1653320209 source:c:\users\nico_\desktop\grafo1\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1653266305 c:\users\nico_\desktop\grafo1\cola.h
+
+1653265847 source:c:\users\nico_\desktop\grafo1\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1653265862 c:\users\nico_\desktop\grafo1\nodo.h
+
